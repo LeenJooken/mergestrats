@@ -11,7 +11,7 @@ class FileNode:
         self.distinctFileList = self.buildDistinctFileList()
         #copy by value
         self.isolatedFileList = self.distinctFileList[:]
-        self.collaborationThreshold = 3
+        self.collaborationths = 3
 
 
         #construct the list of files this programmer worked on alone
