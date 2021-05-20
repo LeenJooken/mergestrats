@@ -15,9 +15,9 @@ class GraphExpansionPack:
             self.baseGraph.setNodeIterator(newNodeIterator)
 
         fileNodesList = self.fileNodeExpansion.getNodesList()
-        print("De file ")
+        print("De file nodes: ")
         for node in fileNodesList:
-            print(node.getProgrammerLabel(),": ", node.getLabel()," files weight = ", node.getWeight())
+            print(node.getProgrammerLabel(),": ", node.getLabel()," files   weight = ", node.getWeight())
 
         fileEdgesList = self.fileNodeExpansion.getEdgesList()
 
@@ -29,3 +29,4 @@ class GraphExpansionPack:
         clusterFileEdgesList = self.fileNodeExpansion.getClusterEdgesList()
 
         return {"nodes":fileNodesList,"edges":fileEdgesList,"clusternodes": clusterFileNodesList,"clusteredges":clusterFileEdgesList}
+    #Some random comment in the file.
