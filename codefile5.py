@@ -17,4 +17,4 @@ class Graph:
         self.clusterEdgeslist = []
         self.nodeIterator = nodeIterator
 
-        self.constructGraph(listOfProgrammers,listOfCommits)
+        self.constructGraph(hihihih,listOfCommits)
