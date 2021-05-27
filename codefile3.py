@@ -7,8 +7,8 @@ parser.add_argument("-ef","--edges_filename",help="pass the edges CSV filename")
 
 args = parser.parse_args()
 log_file = args.source
-nodes_file = args.nodes_fi
-edges_file = args.edges_fi
+nodes_file = args.nodes_file
+edges_file = args.edges_file
 
 #run the program
 main(log_file,nodes_file,edges_file)

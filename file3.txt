@@ -26,7 +26,7 @@ They wept like anything to see
 If this were only cleared away,'
       They said, it would be grand!'
 
-      If seven maids with seven mops
+If seven maids with seven mops
             Swept it for half a year,
       Do you suppose,' the Walrus said,
             That they could get it clear?'
@@ -87,7 +87,6 @@ If this were only cleared away,'
                   Pepper and vinegar besides
                         Are very good indeed —
                   Now if you're ready, Oysters dear,
-
                         We can begin to feed.'
 
                         But not on us!' the Oysters cried,
