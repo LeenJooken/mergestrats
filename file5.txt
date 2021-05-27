@@ -5,3 +5,10 @@ I will add something to this file
 
 
 More of nothing
+
+
+This is a test if commits in a branch are shown in the log
+
+
+test testDelete 
+

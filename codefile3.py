@@ -12,3 +12,4 @@ edges_file = args.edges_file
 
 #run the program
 main(log_file,nodes_file,edges_file)
+# a comment 
